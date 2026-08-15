@@ -1,0 +1,102 @@
+{
+ "race": {
+  "rows": 2909,
+  "parts": 1,
+  "bytes": 440735
+ },
+ "race_committee": {
+  "rows": 6278,
+  "parts": 1,
+  "bytes": 825082
+ },
+ "committee": {
+  "rows": 18730,
+  "parts": 2,
+  "bytes": 2389958
+ },
+ "committee_month": {
+  "rows": 62774,
+  "parts": 7,
+  "bytes": 4710055
+ },
+ "donor": {
+  "rows": 1688404,
+  "parts": 169,
+  "bytes": 384548229
+ },
+ "donor_recipient": {
+  "rows": 3451579,
+  "parts": 346,
+  "bytes": 346697076
+ },
+ "vendor": {
+  "rows": 262335,
+  "parts": 27,
+  "bytes": 29411959
+ },
+ "vendor_month": {
+  "rows": 93051,
+  "parts": 10,
+  "bytes": 5518255
+ },
+ "transfer": {
+  "rows": 913674,
+  "parts": 92,
+  "bytes": 130990336
+ },
+ "money_year": {
+  "rows": 28,
+  "parts": 1,
+  "bytes": 1831
+ },
+ "ie_target": {
+  "rows": 78395,
+  "parts": 8,
+  "bytes": 11259673
+ },
+ "ie_spender": {
+  "rows": 407132,
+  "parts": 41,
+  "bytes": 39841623
+ },
+ "ie_vendor": {
+  "rows": 197329,
+  "parts": 20,
+  "bytes": 15139762
+ },
+ "committee_vendor": {
+  "rows": 563367,
+  "parts": 57,
+  "bytes": 39201200
+ },
+ "committee_expense": {
+  "rows": 100902,
+  "parts": 11,
+  "bytes": 10228056
+ },
+ "committee_measure": {
+  "rows": 16349,
+  "parts": 2,
+  "bytes": 3033767
+ },
+ "committee_donor": {
+  "rows": 3726298,
+  "parts": 373,
+  "bytes": 364041914
+ },
+ "committee_donor_kind": {
+  "rows": 30853,
+  "parts": 4,
+  "bytes": 2272906
+ },
+ "stats": {
+  "rows": 12,
+  "parts": 1,
+  "bytes": 956
+ },
+ "committee_cash": {
+  "rows": 11320,
+  "parts": 2,
+  "bytes": 640292
+ }
+}
