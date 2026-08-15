@@ -2,77 +2,92 @@
  "race": {
   "rows": 2909,
   "parts": 1,
-  "bytes": 440735
+  "bytes": 439116
  },
  "race_committee": {
-  "rows": 6278,
+  "rows": 6242,
   "parts": 1,
-  "bytes": 825082
+  "bytes": 816430
+ },
+ "measure": {
+  "rows": 462,
+  "parts": 1,
+  "bytes": 101482
+ },
+ "measure_committee_money": {
+  "rows": 774,
+  "parts": 1,
+  "bytes": 159805
  },
  "committee": {
-  "rows": 18730,
+  "rows": 18715,
   "parts": 2,
-  "bytes": 2389958
+  "bytes": 2386221
  },
  "committee_month": {
-  "rows": 62774,
+  "rows": 60009,
   "parts": 7,
-  "bytes": 4710055
+  "bytes": 4506169
  },
  "donor": {
-  "rows": 1688404,
+  "rows": 1681978,
   "parts": 169,
-  "bytes": 384548229
+  "bytes": 383119131
  },
  "donor_recipient": {
-  "rows": 3451579,
-  "parts": 346,
-  "bytes": 346697076
+  "rows": 3429694,
+  "parts": 343,
+  "bytes": 344054269
  },
  "vendor": {
-  "rows": 262335,
-  "parts": 27,
-  "bytes": 29411959
+  "rows": 252531,
+  "parts": 26,
+  "bytes": 28311797
  },
  "vendor_month": {
-  "rows": 93051,
+  "rows": 92718,
   "parts": 10,
-  "bytes": 5518255
+  "bytes": 5498160
  },
  "transfer": {
-  "rows": 913674,
-  "parts": 92,
-  "bytes": 130990336
+  "rows": 922633,
+  "parts": 93,
+  "bytes": 132452769
  },
  "money_year": {
   "rows": 28,
   "parts": 1,
-  "bytes": 1831
+  "bytes": 1857
+ },
+ "campaign_to_campaign": {
+  "rows": 77151,
+  "parts": 8,
+  "bytes": 11059048
  },
  "ie_target": {
-  "rows": 78395,
-  "parts": 8,
-  "bytes": 11259673
+  "rows": 2980,
+  "parts": 1,
+  "bytes": 388948
  },
  "ie_spender": {
-  "rows": 407132,
-  "parts": 41,
-  "bytes": 39841623
+  "rows": 4165,
+  "parts": 1,
+  "bytes": 427967
  },
  "ie_vendor": {
-  "rows": 197329,
-  "parts": 20,
-  "bytes": 15139762
+  "rows": 15697,
+  "parts": 2,
+  "bytes": 1196975
  },
  "committee_vendor": {
-  "rows": 563367,
-  "parts": 57,
-  "bytes": 39201200
+  "rows": 536365,
+  "parts": 54,
+  "bytes": 37311237
  },
  "committee_expense": {
-  "rows": 100902,
+  "rows": 100359,
   "parts": 11,
-  "bytes": 10228056
+  "bytes": 10167487
  },
  "committee_measure": {
   "rows": 16349,
@@ -80,19 +95,19 @@
   "bytes": 3033767
  },
  "committee_donor": {
-  "rows": 3726298,
-  "parts": 373,
-  "bytes": 364041914
+  "rows": 3715247,
+  "parts": 372,
+  "bytes": 362787804
  },
  "committee_donor_kind": {
-  "rows": 30853,
+  "rows": 30109,
   "parts": 4,
-  "bytes": 2272906
+  "bytes": 2217943
  },
  "stats": {
   "rows": 13,
   "parts": 1,
-  "bytes": 1051
+  "bytes": 1050
  },
  "committee_cash": {
   "rows": 11320,
