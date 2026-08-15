@@ -1,113 +1,113 @@
 {
  "race": {
-  "rows": 2909,
+  "rows": 2859,
   "parts": 1,
-  "bytes": 439116
+  "bytes": 431725
  },
  "race_committee": {
-  "rows": 6242,
+  "rows": 6232,
   "parts": 1,
-  "bytes": 816430
+  "bytes": 814128
  },
  "measure": {
-  "rows": 462,
+  "rows": 452,
   "parts": 1,
-  "bytes": 101482
+  "bytes": 99668
  },
  "measure_committee_money": {
-  "rows": 774,
+  "rows": 769,
   "parts": 1,
-  "bytes": 159805
+  "bytes": 158733
  },
  "committee": {
   "rows": 18715,
   "parts": 2,
-  "bytes": 2386221
+  "bytes": 2385578
  },
  "committee_month": {
   "rows": 60009,
   "parts": 7,
-  "bytes": 4506169
+  "bytes": 4505937
  },
  "donor": {
-  "rows": 1681978,
+  "rows": 1681823,
   "parts": 169,
-  "bytes": 383119131
+  "bytes": 383081102
  },
  "donor_recipient": {
-  "rows": 3429694,
+  "rows": 3429809,
   "parts": 343,
-  "bytes": 344054269
+  "bytes": 344065579
  },
  "vendor": {
-  "rows": 252531,
+  "rows": 251540,
   "parts": 26,
-  "bytes": 28311797
+  "bytes": 28177317
  },
  "vendor_month": {
   "rows": 92718,
   "parts": 10,
-  "bytes": 5498160
+  "bytes": 5498407
  },
  "transfer": {
-  "rows": 922633,
-  "parts": 93,
-  "bytes": 132452769
+  "rows": 937890,
+  "parts": 94,
+  "bytes": 134644560
  },
  "money_year": {
   "rows": 28,
   "parts": 1,
-  "bytes": 1783
+  "bytes": 1907
  },
  "campaign_to_campaign": {
   "rows": 77151,
   "parts": 8,
-  "bytes": 11059048
+  "bytes": 11059196
  },
  "ie_target": {
   "rows": 2980,
   "parts": 1,
-  "bytes": 388948
+  "bytes": 388750
  },
  "ie_spender": {
   "rows": 4165,
   "parts": 1,
-  "bytes": 427967
+  "bytes": 428094
  },
  "ie_vendor": {
-  "rows": 15697,
+  "rows": 15725,
   "parts": 2,
-  "bytes": 1196975
+  "bytes": 1527382
  },
  "committee_vendor": {
-  "rows": 536365,
-  "parts": 54,
-  "bytes": 37311237
+  "rows": 520691,
+  "parts": 53,
+  "bytes": 36231971
  },
  "committee_expense": {
-  "rows": 100359,
-  "parts": 11,
-  "bytes": 10167487
+  "rows": 99120,
+  "parts": 10,
+  "bytes": 10049111
  },
  "committee_measure": {
-  "rows": 16349,
+  "rows": 16328,
   "parts": 2,
-  "bytes": 3033767
+  "bytes": 3030074
  },
  "committee_donor": {
-  "rows": 3715247,
+  "rows": 3715367,
   "parts": 372,
-  "bytes": 362787804
+  "bytes": 362801948
  },
  "committee_donor_kind": {
   "rows": 30109,
   "parts": 4,
-  "bytes": 2217943
+  "bytes": 2217625
  },
  "stats": {
-  "rows": 14,
+  "rows": 15,
   "parts": 1,
-  "bytes": 1164
+  "bytes": 1273
  },
  "committee_cash": {
   "rows": 11320,
