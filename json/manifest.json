@@ -105,9 +105,9 @@
   "bytes": 2217943
  },
  "stats": {
-  "rows": 13,
+  "rows": 14,
   "parts": 1,
-  "bytes": 1050
+  "bytes": 1164
  },
  "committee_cash": {
   "rows": 11320,
