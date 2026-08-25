@@ -2,92 +2,92 @@
  "race": {
   "rows": 2859,
   "parts": 1,
-  "bytes": 431833
+  "bytes": 431820
  },
  "race_committee": {
   "rows": 6232,
   "parts": 1,
-  "bytes": 815252
+  "bytes": 814298
  },
  "measure": {
   "rows": 452,
   "parts": 1,
-  "bytes": 99671
+  "bytes": 99554
  },
  "measure_committee_money": {
   "rows": 769,
   "parts": 1,
-  "bytes": 158723
+  "bytes": 158561
  },
  "committee": {
   "rows": 18715,
   "parts": 2,
-  "bytes": 2794665
+  "bytes": 2800912
  },
  "committee_month": {
   "rows": 60009,
   "parts": 7,
-  "bytes": 4505773
+  "bytes": 4505866
  },
  "donor": {
   "rows": 1681823,
   "parts": 169,
-  "bytes": 383084067
+  "bytes": 383087541
  },
  "donor_recipient": {
   "rows": 3429809,
   "parts": 343,
-  "bytes": 344070033
+  "bytes": 344069852
  },
  "vendor": {
   "rows": 251540,
   "parts": 26,
-  "bytes": 28178712
+  "bytes": 28176855
  },
  "vendor_month": {
   "rows": 92718,
   "parts": 10,
-  "bytes": 5498692
+  "bytes": 5497985
  },
  "transfer": {
   "rows": 937890,
   "parts": 94,
-  "bytes": 134644543
+  "bytes": 134644686
  },
  "money_year": {
   "rows": 28,
   "parts": 1,
-  "bytes": 5560
+  "bytes": 5655
  },
  "campaign_to_campaign": {
   "rows": 77151,
   "parts": 8,
-  "bytes": 11059100
+  "bytes": 11059478
  },
  "ie_target": {
   "rows": 2980,
   "parts": 1,
-  "bytes": 388717
+  "bytes": 388561
  },
  "ie_spender": {
   "rows": 4165,
   "parts": 1,
-  "bytes": 427897
+  "bytes": 427457
  },
  "ie_vendor": {
   "rows": 15725,
   "parts": 2,
-  "bytes": 1526816
+  "bytes": 1527539
  },
  "committee_vendor": {
   "rows": 520691,
   "parts": 53,
-  "bytes": 36234571
+  "bytes": 36235036
  },
  "committee_expense": {
   "rows": 99120,
   "parts": 10,
-  "bytes": 10049696
+  "bytes": 10048130
  },
  "committee_measure": {
   "rows": 16328,
@@ -97,17 +97,17 @@
  "committee_donor": {
   "rows": 3715367,
   "parts": 372,
-  "bytes": 362794258
+  "bytes": 362793811
  },
  "committee_donor_kind": {
   "rows": 30109,
   "parts": 4,
-  "bytes": 2217785
+  "bytes": 2218061
  },
  "stats": {
   "rows": 15,
   "parts": 1,
-  "bytes": 1272
+  "bytes": 1270
  },
  "committee_cash": {
   "rows": 11320,
